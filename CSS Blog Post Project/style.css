@@ -1,0 +1,34 @@
+
+body {
+  background-color: #f3f3f3;
+  color: #932432;
+  font-size: 50px;
+}
+.omega {
+  text-align: center;
+  color: #3c1874;
+  margin-top: 70px;
+  border: #932432;
+  
+}
+.alpha {
+  text-align: center;
+  color: #810f06;
+  font-size:  60px;
+  height: 300px;
+  background-image: url(images/Astyanax_vs_Kalendio_mosaic.jpg)
+}
+.beta {
+  text-align: center;
+  color: #3c1874;
+  font-size: 60px;
+  height: 300px;
+  background-image: url(images/Omar\ bin\ al-Khattab.jpg);
+}
+.gamma {
+  text-align: center;
+  color: #932432;
+  font-size: 60px;
+  height: 300px;
+  background-image: url(images/Modern\ Day\ Brazilian\ Jiu\ Jitsu.jpg);
+}
